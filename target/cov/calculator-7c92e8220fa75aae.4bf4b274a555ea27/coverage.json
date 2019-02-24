@@ -1,0 +1,15 @@
+{
+  "files": [
+    {"file": "/usr/lib/gcc/x86_64-linux-gnu/5/include/tmmintrin.h", "percent_covered": "0.00", "covered_lines": "0", "total_lines": "1"},
+    {"file": "/usr/lib/gcc/x86_64-linux-gnu/5/include/smmintrin.h", "percent_covered": "0.00", "covered_lines": "0", "total_lines": "3"},
+    {"file": "/usr/lib/gcc/x86_64-linux-gnu/5/include/emmintrin.h", "percent_covered": "0.00", "covered_lines": "0", "total_lines": "2"},
+    {"file": "/home/knoldus/calculator/src/main.rs", "percent_covered": "95.24", "covered_lines": "20", "total_lines": "21"}
+  ],
+  "percent_covered": "74.07",
+  "covered_lines": 20,
+  "total_lines": 27,
+  "percent_low": 25,
+  "percent_high": 75,
+  "command": "calculator-7c92e8220fa75aae",
+  "date": "2019-02-24 19:28:00"
+}
